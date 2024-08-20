@@ -1,13 +1,14 @@
 Calculation of no. genes that are essential in the gut and that are
 expressed
 ================
+Lizbeth Sayavedra
 
 Load libraries and set directory
 
 Put together the data in data frames and clean
 
 ``` r
-bins=read_xlsx("~/PATH/OVERVIEW_filtered_logfc3.xlsx", range = "B3:P839",  sheet="filtered_logfc_HF_PAT")
+bins=read_xlsx("~/OneDrive - Norwich Bioscience Institutes/01_SRB/00_Tradis/00_Mice/Tradis_analysis/ALBA_enrichment_temp/OVERVIEW_filtered_logfc3.xlsx", range = "B3:P839",  sheet="filtered_logfc_HF_PAT")
 ```
 
     ## New names:
@@ -25,9 +26,9 @@ Tradis <- bins[,1:7]
 ```
 
 ``` r
-Transcriptome=read_xlsx("/PATH/OVERVIEW_filtered_logfc3.xlsx", range = "A3:D2856",  sheet="Degustaug24")
+Transcriptome=read_xlsx("~/OneDrive - Norwich Bioscience Institutes/01_SRB/00_Tradis/00_Mice/Tradis_analysis/ALBA_enrichment_temp/OVERVIEW_filtered_logfc3.xlsx", range = "A3:D2856",  sheet="Degustaug24")
 
-Annotation= read_xlsx("/PATH/OVERVIEW_filtered_logfc3.xlsx", range ="C1:I4583", sheet = "PATRIC_TO_NCBI")
+Annotation= read_xlsx("~/OneDrive - Norwich Bioscience Institutes/01_SRB/00_Tradis/00_Mice/Tradis_analysis/ALBA_enrichment_temp/OVERVIEW_filtered_logfc3.xlsx", range ="C1:I4583", sheet = "PATRIC_TO_NCBI")
 
 
 
