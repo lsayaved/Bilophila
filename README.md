@@ -22,7 +22,7 @@ Comparative transcriptomic datasets (caecum vs in vitro conditions) are availabl
 
 The R script `Share_UpsetPlot.R` was used to:
 
-- Generate the upset plot shown in **Supplementary Figure 1**
+- Generate the upset plot shown in **Figure 2a**
 - Identify overlaps between genes essential or contributing to fitness (TraDIS) and those actively transcribed in the colon (RNA-seq)
 
 ---
