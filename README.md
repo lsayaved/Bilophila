@@ -2,11 +2,11 @@
 
 This repository contains supplementary data and scripts associated with the preprint:
 
-> **"Bacterial microcompartments and energy metabolism drive gut colonisation by *Bilophila wadsworthia*"**  
-> Sayavedra L. *et al.*  
-> [https://www.researchsquare.com/article/rs-4502164/v1](https://www.researchsquare.com/article/rs-4502164/v1)  
-> DOI: [10.21203/rs.3.rs-4502164](https://doi.org/10.21203/rs.3.rs-4502164)  
-> *Preliminarily accepted for publication in* **Nature Communications**.
+ **"Bacterial microcompartments and energy metabolism drive gut colonisation by *Bilophila wadsworthia*"**  
+ Sayavedra L. *et al.*  
+ [https://www.researchsquare.com/article/rs-4502164/v1](https://www.researchsquare.com/article/rs-4502164/v1)  
+ DOI: [10.21203/rs.3.rs-4502164](https://doi.org/10.21203/rs.3.rs-4502164)  
+ *Preliminarily accepted for publication in* **Nature Communications**.
 
 ---
 
