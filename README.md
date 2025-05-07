@@ -8,7 +8,7 @@ This repository contains supplementary data and scripts associated with the prep
  DOI: [10.21203/rs.3.rs-4502164](https://doi.org/10.21203/rs.3.rs-4502164)  
  *Preliminarily accepted for publication in* **Nature Communications**.
 
----
+These scripts are only intended as a descriptive extension of the methods used in the publication.
 
 ## Transcriptomics
 
